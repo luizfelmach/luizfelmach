@@ -52,6 +52,4 @@
 
 <br/>
 
-<div style="float:left;margin:0 10px 10px 0" markdown="1">
-  ![Snake animation](https://github.com/luizfelmach/luizfelmach/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/luizfelmach/luizfelmach/blob/output/github-contribution-grid-snake.svg)
