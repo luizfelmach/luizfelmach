@@ -15,8 +15,6 @@
 </a>
 
 [![GitHub luizfelmach](https://img.shields.io/github/followers/luizfelmach?label=follow&style=social)](https://github.com/luizfelmach)
-<sub>ㅤ</sub>
-[![GitHub luizfelmach](https://komarev.com/ghpvc/?username=luizfelmach&label=Profile%20views&color=orange&style=flat)](https://github.com/luizfelmach)
 
 ### 👦 **About me**
 
@@ -29,6 +27,8 @@
 - I like to study **math** and **physics**.
 
 ### 🎯 **Languages and Tools**
+
+<br/>
 
 <p align="center">
   <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
