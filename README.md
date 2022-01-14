@@ -52,6 +52,4 @@
 
 <br/>
 
-<p align='center'>
-  ![Snake animation](https://github.com/luizfelmach/luizfelmach/blob/output/github-contribution-grid-snake.svg)
-</p>
+![Snake animation](https://github.com/luizfelmach/luizfelmach/blob/output/github-contribution-grid-snake.svg)
