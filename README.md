@@ -50,6 +50,4 @@
   <img align="center" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelmach&layout=compact&langs_count=10&theme=dracula&card_width=400"/>
 </p>
 
-<br/>
-
 ![Snake animation](https://github.com/luizfelmach/luizfelmach/blob/output/github-contribution-grid-snake.svg)
