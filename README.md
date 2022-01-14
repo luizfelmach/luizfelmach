@@ -28,11 +28,7 @@
 
 - I like to study **math** and **physics**.
 
-<br/>
-
 ### 🎯 **Languages and Tools**
-
-<br/>
 
 <p align="center">
   <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
