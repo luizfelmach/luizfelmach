@@ -2,7 +2,7 @@
 </h1>
 
 <a href="mailto:luizfelmach@gmail.com">
-  <img align="left" alt="Luiz Felipe Machado | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+  <img align="left" alt="Luiz Felipe Machado | Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 <a href="https://www.linkedin.com/in/luizfelmach/">
   <img align="left" alt="Luiz Felipe Machado | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
