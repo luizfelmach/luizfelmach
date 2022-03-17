@@ -11,7 +11,7 @@
   <img align="left" alt="Luiz Felipe Machado | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
 </a>
 <a href="https://open.spotify.com/user/lrktjl8f4h82eqyzv3jhbdny9">
-  <img align="left" alt="Luiz Felipe Machado | Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Luiz Felipe Machado | Spotify" width="22px" src="https://www.opuspesquisa.com/wp-content/uploads/2021/05/file-spotify-logo-png-4.png" />
 </a>
 
 [![GitHub luizfelmach](https://img.shields.io/github/followers/luizfelmach?label=follow&style=social)](https://github.com/luizfelmach)
