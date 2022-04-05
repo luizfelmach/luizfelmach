@@ -22,8 +22,6 @@
 
 - I love **open source** and **linux** world.
 
-- I currently work hard to learn **backend development**.
-
 - I like to study **math** and **physics**.
 
 ### 🎯 **Languages and Tools**
