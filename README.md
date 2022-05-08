@@ -1,37 +1,40 @@
-<h1 align="center">Hi there, I am Luiz Machado! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-</h1>
-
-<a href="mailto:luizfelmach@gmail.com">
-  <img align="left" alt="Luiz Felipe Machado | Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
-</a>
-<a href="https://www.linkedin.com/in/luizfelmach/">
-  <img align="left" alt="Luiz Felipe Machado | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/luizfelmach">
-  <img align="left" alt="Luiz Felipe Machado | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
-</a>
-<a href="https://open.spotify.com/user/lrktjl8f4h82eqyzv3jhbdny9">
-  <img align="left" alt="Luiz Felipe Machado | Spotify" width="22px" src="https://www.opuspesquisa.com/wp-content/uploads/2021/05/file-spotify-logo-png-4.png" />
-</a>
-
+```bash
+ ██▓     █    ██  ██▓▒███████▒
+▓██▒     ██  ▓██▒▓██▒▒ ▒ ▒ ▄▀░
+▒██░    ▓██  ▒██░▒██▒░ ▒ ▄▀▒░ 
+▒██░    ▓▓█  ░██░░██░  ▄▀▒   ░
+░██████▒▒▒█████▓ ░██░▒███████▒
+░ ▒░▓  ░░▒▓▒ ▒ ▒ ░▓  ░▒▒ ▓░▒░▒
+░ ░ ▒  ░░░▒░ ░ ░  ▒ ░░░▒ ▒ ░ ▒
+  ░ ░    ░░░ ░ ░  ▒ ░░ ░ ░ ░ ░
+    ░  ░   ░      ░    ░ ░    
+                     ░        
+# Olá, eu sou o Luiz Machado!
+```
 [![GitHub luizfelmach](https://img.shields.io/github/followers/luizfelmach?label=follow&style=social)](https://github.com/luizfelmach)
 
-### 👦 **About me**
+### **Sobre mim**
 
-- Hi, I am Luiz! Welcome to my **github** profile.
+- Olá, eu sou o **Luiz**! Bem-vindo ao meu perfil no **github**.
 
-- I love **open source** and **linux** world.
+- Tenho 19 anos.
 
-- I like to study **math** and **physics**.
+- Sou estudante de **Engenharia de Computação** na **Universidade Federal do Espírito Santo**.
 
-### 🎯 **Languages and Tools**
+- Eu adoro **linux**.
+
+- Eu gosto de estudar **matemática** e **física**.
+
+### **Linguagens e Ferramentas**
 
 <br/>
 
 <p align="center">
+  <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" />
+  <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="c"/>
   <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
