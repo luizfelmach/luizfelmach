@@ -1,11 +1,4 @@
 Staying at HEAD~0
+=================
 
-Hello, I am **Luiz**! Welcome to my **github** profile.
-
-- I am 19 years old.
-
-- I am a student of **Computer Engineering** at **Federal University of Espírito Santo**.
-
-- I love **Linux**.
-
-- I enjoy studying **Mathematics** and **Physics**.
+Hello, I'm Luiz, a 21 year old Computer Engineering student at the Federal University of Espírito Santo. Passionate about Linux, I thrive on diving into the depths of Mathematics and Physics, constantly seeking to broaden my understanding of these subjects. Welcome to my GitHub profile!
