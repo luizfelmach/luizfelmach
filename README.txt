@@ -4,6 +4,8 @@ Hello, I'm Luiz, a 21 year old Computer Engineering student at the Federal Unive
 
 Always looking to improve my knowledge of algorithms and data structure. I have experience in C, C++, Python, Java, Javascript, Typescript and more. I also have experience with tools that help with development, such as Docker, Git, Bash, Database and much more.
 
+I'm currently studying blockchains, ethereum, cryptography and the elastic stack.
+
 I use archlinux BTW !!!
 
 Reach me on luizfelmach@gmail.com
